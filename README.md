@@ -35,10 +35,15 @@ python3 main.py -id 707339151065874502
 pyton3 main.py -id 707339151065874502 -noformat
 ```
 
-| Format JSON data  | Display raw JSON data |
-| ------------ | ------------ |
-|  ![image](https://github.com/user-attachments/assets/fbb4fe01-0a81-4217-950a-57cab99f66a0) | ![image](https://github.com/user-attachments/assets/d267f989-7373-4046-83e6-843cf87a9b36)
-  |
+## Images
+
+Format JSON data
+
+![image](https://github.com/user-attachments/assets/fbb4fe01-0a81-4217-950a-57cab99f66a0) 
+
+Display raw JSON data
+
+![image](https://github.com/user-attachments/assets/d267f989-7373-4046-83e6-843cf87a9b36)
 
 ## 🌐 Contact 🌐
 [![discord](https://img.shields.io/badge/Discord-euronymou5-a?style=plastic&logo=discord&logoColor=white&labelColor=black&color=7289DA)](https://discord.com/users/452720652500205579)
