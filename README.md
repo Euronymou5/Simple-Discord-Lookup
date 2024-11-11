@@ -32,7 +32,7 @@ python3 main.py -id 707339151065874502
 > Display raw JSON data
 
 ```
-pyton3 main.py -id 707339151065874502 -noformat
+pyton3 main.py -id 707339151065874502 -raw
 ```
 
 ## Images
