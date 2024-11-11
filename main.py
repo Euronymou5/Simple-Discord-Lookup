@@ -41,7 +41,7 @@ def user():
     else:
       print(f'{Fore.GREEN}\n[-] User: {var["username"]}')
       fecha_dt = datetime.strptime(var["created_at"], "%Y-%m-%dT%H:%M:%S.%fZ")
-      fecha_n = fecha_dt.strftime("%d de %B de %Y, %H:%M:%S")
+      fecha_n = fecha_dt.strftime("%d %B %Y, %H:%M:%S")
       print(f'[-] Created at: {fecha_n}')
       print(f'[-] Avatar: {var["avatar"]["link"]}')
       print(f'[-] Global Name: {var["global_name"]}')
